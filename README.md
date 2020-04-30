@@ -168,6 +168,7 @@ git clone https://github.com/zone117x/node-open-mining-portal.git nomp
 cd nomp
 npm update
 ```
+If you have errors with `npm update`, on linux run `sudo apt-get install python`
 
 #### 2) Configuration
 
